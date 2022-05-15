@@ -18,7 +18,7 @@ from nltk.stem import *
 
 st.title("☂€✠☂")
 st.title("Text Summarization App ✍")
-st.markdown("--- made by Jasmine Kaur")
+st.markdown("--- made by Khushant Rana")
 
 
 text = st.text_area('Write your paragraph here:') 
